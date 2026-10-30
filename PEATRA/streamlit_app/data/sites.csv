@@ -1,0 +1,25 @@
+site_id,site_name,khg_name,latitude,longitude,land_cover,canal_condition,groundwater_depth,fire_risk_index,ecological_sensitivity,affected_area,accessibility,data_provenance
+A1,Lokasi A1 - Semak Kanal Utama,KHG Sungai Kampar - Gaung,-0.2517,101.8432,Semak,Rusak sebagian,0.78,70,65,120,Sedang,Simulasi Ilustratif BRGM/Bappeda
+A2,Lokasi A2 - Bekas Terbakar Blok B,KHG Sungai Kampar - Gaung,-0.2645,101.8590,Bekas terbakar,Rusak berat,0.94,82,80,210,Baik,Simulasi Ilustratif BRGM/Bappeda
+B1,Lokasi B1 - Hutan Sekunder Inti,KHG Sungai Kampar - Gaung,-0.2389,101.8315,Hutan sekunder,Rusak sebagian,0.58,57,90,180,Sedang,Simulasi Ilustratif KLHK
+B2,Lokasi B2 - Semak Pedalaman,KHG Sungai Kampar - Gaung,-0.2780,101.8724,Semak,Tidak ada,0.74,76,60,150,Sulit,Simulasi Ilustratif Pemda
+C1,Lokasi C1 - Hutan Sekunder Restorasi,KHG Sungai Kampar - Gaung,-0.2210,101.8150,Hutan sekunder,Baik,0.38,34,95,250,Sedang,Simulasi Ilustratif Lapangan
+C2,Lokasi C2 - Kebun Campuran Penyangga,KHG Sungai Kampar - Gaung,-0.2890,101.8410,Kebun campuran,Rusak sebagian,0.48,52,50,110,Baik,Simulasi Ilustratif Masyarakat
+D1,Lokasi D1 - Semak Terdegradasi Kanal Barat,KHG Sungai Kampar - Gaung,-0.2450,101.8210,Semak,Rusak berat,0.85,78,65,135,Sedang,Simulasi Ilustratif BRGM
+D2,Lokasi D2 - Bekas Terbakar Kanal Selatan,KHG Sungai Kampar - Gaung,-0.2710,101.8650,Bekas terbakar,Tidak ada,0.91,85,75,190,Sulit,Simulasi Ilustratif Sentinel-2
+E1,Lokasi E1 - Hutan Sekunder Rawa Gambut,KHG Sungai Kampar - Gaung,-0.2150,101.8350,Hutan sekunder,Rusak sebagian,0.52,48,88,160,Baik,Simulasi Ilustratif KLHK
+E2,Lokasi E2 - Kebun Karet Campuran Rakyat,KHG Sungai Kampar - Gaung,-0.2950,101.8250,Kebun campuran,Rusak berat,0.68,64,55,105,Baik,Simulasi Ilustratif Bappeda
+F1,Lokasi F1 - Semak Belukar Hulu Kanal,KHG Sungai Kampar - Gaung,-0.2320,101.8520,Semak,Rusak sebagian,0.72,68,62,115,Sedang,Simulasi Ilustratif BRGM
+F2,Lokasi F2 - Semak Dekat Permukiman,KHG Sungai Kampar - Gaung,-0.2600,101.8180,Semak,Tidak ada,0.65,60,58,95,Baik,Simulasi Ilustratif Pemda
+G1,Lokasi G1 - Bekas Terbakar Berulang,KHG Sungai Kampar - Gaung,-0.2810,101.8850,Bekas terbakar,Rusak berat,0.98,88,78,225,Sulit,Simulasi Ilustratif Modis
+G2,Lokasi G2 - Hutan Sekunder Penyangga Kubah,KHG Sungai Kampar - Gaung,-0.2080,101.8450,Hutan sekunder,Rusak sebagian,0.55,45,92,205,Sedang,Simulasi Ilustratif KLHK
+H1,Lokasi H1 - Kebun Sawit Campuran,KHG Sungai Kampar - Gaung,-0.3010,101.8550,Kebun campuran,Rusak berat,0.75,66,48,125,Baik,Simulasi Ilustratif Bappeda
+H2,Lokasi H2 - Semak Kanal Gaung,KHG Sungai Kampar - Gaung,-0.2670,101.8900,Semak,Rusak sebagian,0.80,72,64,140,Sedang,Simulasi Ilustratif BRGM
+I1,Lokasi I1 - Bekas Terbakar Kanal Sekunder,KHG Sungai Kampar - Gaung,-0.2550,101.8750,Bekas terbakar,Rusak sebagian,0.88,80,72,175,Sedang,Simulasi Ilustratif BRGM
+I2,Lokasi I2 - Hutan Lindung Kubah Gambut,KHG Sungai Kampar - Gaung,-0.2010,101.8200,Hutan sekunder,Baik,0.36,30,98,280,Sulit,Simulasi Ilustratif KLHK
+J1,Lokasi J1 - Kebun Campuran Rawa,KHG Sungai Kampar - Gaung,-0.2920,101.8680,Kebun campuran,Tidak ada,0.62,58,52,100,Baik,Simulasi Ilustratif Masyarakat
+J2,Lokasi J2 - Semak Dataran Rendah Kampar,KHG Sungai Kampar - Gaung,-0.2410,101.8650,Semak,Rusak sebagian,0.70,67,60,110,Sedang,Simulasi Ilustratif BRGM
+K1,Lokasi K1 - Bekas Terbakar Blok Timur,KHG Sungai Kampar - Gaung,-0.2750,101.8980,Bekas terbakar,Rusak berat,0.95,86,76,215,Sulit,Simulasi Ilustratif BRGM
+K2,Lokasi K2 - Semak Rawan Api,KHG Sungai Kampar - Gaung,-0.2490,101.8380,Semak,Rusak sebagian,0.76,71,63,130,Sedang,Simulasi Ilustratif BRGM
+L1,Lokasi L1 - Kebun Campuran Kanal Barat,KHG Sungai Kampar - Gaung,-0.2850,101.8150,Kebun campuran,Rusak sebagian,0.50,54,54,108,Baik,Simulasi Ilustratif Pemda
+L2,Lokasi L2 - Hutan Rawa Regenerasi Alami,KHG Sungai Kampar - Gaung,-0.2180,101.8600,Hutan sekunder,Rusak sebagian,0.56,50,89,190,Sedang,Simulasi Ilustratif KLHK

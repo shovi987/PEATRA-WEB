@@ -1,0 +1,11 @@
+observation_id,site_id,observation_date,groundwater_depth,canal_condition,fire_risk_index,hotspot_count,validation_status,notes
+OBS-001,A1,2025-06-15,0.66,Rusak sebagian,58,1,Tervalidasi,Pemantauan berkala pasca perbaikan darurat; penurunan risiko teramati
+OBS-002,A1,2025-09-10,0.52,Baik,42,0,Tervalidasi,Kondisi sekat berfungsi optimal setelah pemeliharaan; elevasi air naik
+OBS-003,A2,2025-08-20,0.85,Rusak berat,74,2,Tervalidasi,Pelepasan sekat darurat jebol akibat debit air tinggi; butuh re-eng
+OBS-004,B1,2025-07-12,0.48,Baik,45,0,Tervalidasi,Vegetasi kanopi lebat menjaga kelembaban gambut inti
+OBS-005,B2,2025-09-02,0.72,Tidak ada,75,3,Menunggu Validasi,Laporan tim patroli MPA; akses jalan kanal tertutup vegetasi air
+OBS-006,C1,2025-06-25,0.36,Baik,30,0,Tervalidasi,Kondisi prima sesuai standar kepatuhan regulasi PP 57/2016
+OBS-007,C2,2025-08-18,0.44,Baik,46,0,Tervalidasi,Partisipasi kelompok tani peduli gambut dalam pembersihan gulma sekat
+OBS-008,D1,2025-07-28,0.78,Rusak berat,70,1,Tervalidasi,Terdeteksi rembesan samping pada sayap bendung kanal
+OBS-009,E1,2025-09-14,0.46,Baik,40,0,Tervalidasi,Zona rawa sekunder terbasahi merata dalam radius 400 meter
+OBS-010,G1,2025-08-30,0.92,Rusak berat,84,4,Tervalidasi,Ancaman titik api berulang di semak belukar kering tak bersekat

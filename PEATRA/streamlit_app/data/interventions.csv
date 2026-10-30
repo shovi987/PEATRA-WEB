@@ -1,0 +1,73 @@
+site_id,action,action_label,cost,delta_fire_risk,hydrological_improvement,ecological_area_benefit,technical_feasibility,confidence_level
+A1,repair,Perbaikan Sekat Lama,350000000,28.0,0.12,80,1,0.85
+A1,new_build,Pembangunan Sekat Baru,600000000,45.5,0.18,120,1,0.90
+A1,no_intervention,Tanpa Intervensi,0,0.0,0.00,0,1,1.00
+A2,repair,Perbaikan Sekat Lama,420000000,32.0,0.14,140,1,0.80
+A2,new_build,Pembangunan Sekat Baru,680000000,53.3,0.22,210,1,0.92
+A2,no_intervention,Tanpa Intervensi,0,0.0,0.00,0,1,1.00
+B1,repair,Perbaikan Sekat Lama,300000000,23.0,0.10,120,1,0.88
+B1,new_build,Pembangunan Sekat Baru,550000000,37.0,0.16,180,1,0.90
+B1,no_intervention,Tanpa Intervensi,0,0.0,0.00,0,1,1.00
+B2,repair,Perbaikan Sekat Lama,350000000,0.0,0.00,0,0,0.00
+B2,new_build,Pembangunan Sekat Baru,650000000,49.4,0.20,150,1,0.85
+B2,no_intervention,Tanpa Intervensi,0,0.0,0.00,0,1,1.00
+C1,repair,Perbaikan Sekat Lama,200000000,10.0,0.04,150,1,0.95
+C1,new_build,Pembangunan Sekat Baru,480000000,18.0,0.08,250,1,0.90
+C1,no_intervention,Tanpa Intervensi,0,0.0,0.00,0,1,1.00
+C2,repair,Perbaikan Sekat Lama,260000000,18.0,0.07,70,1,0.85
+C2,new_build,Pembangunan Sekat Baru,500000000,29.0,0.12,110,1,0.90
+C2,no_intervention,Tanpa Intervensi,0,0.0,0.00,0,1,1.00
+D1,repair,Perbaikan Sekat Lama,380000000,30.0,0.13,90,1,0.82
+D1,new_build,Pembangunan Sekat Baru,620000000,48.0,0.19,135,1,0.89
+D1,no_intervention,Tanpa Intervensi,0,0.0,0.00,0,1,1.00
+D2,repair,Perbaikan Sekat Lama,360000000,0.0,0.00,0,0,0.00
+D2,new_build,Pembangunan Sekat Baru,700000000,55.0,0.23,190,1,0.87
+D2,no_intervention,Tanpa Intervensi,0,0.0,0.00,0,1,1.00
+E1,repair,Perbaikan Sekat Lama,280000000,18.0,0.08,110,1,0.88
+E1,new_build,Pembangunan Sekat Baru,520000000,30.0,0.14,160,1,0.91
+E1,no_intervention,Tanpa Intervensi,0,0.0,0.00,0,1,1.00
+E2,repair,Perbaikan Sekat Lama,340000000,24.0,0.11,75,1,0.84
+E2,new_build,Pembangunan Sekat Baru,580000000,38.0,0.17,105,1,0.88
+E2,no_intervention,Tanpa Intervensi,0,0.0,0.00,0,1,1.00
+F1,repair,Perbaikan Sekat Lama,320000000,26.0,0.11,80,1,0.86
+F1,new_build,Pembangunan Sekat Baru,570000000,41.0,0.17,115,1,0.90
+F1,no_intervention,Tanpa Intervensi,0,0.0,0.00,0,1,1.00
+F2,repair,Perbaikan Sekat Lama,310000000,0.0,0.00,0,0,0.00
+F2,new_build,Pembangunan Sekat Baru,540000000,35.0,0.15,95,1,0.88
+F2,no_intervention,Tanpa Intervensi,0,0.0,0.00,0,1,1.00
+G1,repair,Perbaikan Sekat Lama,440000000,35.0,0.15,150,1,0.80
+G1,new_build,Pembangunan Sekat Baru,720000000,57.0,0.24,225,1,0.90
+G1,no_intervention,Tanpa Intervensi,0,0.0,0.00,0,1,1.00
+G2,repair,Perbaikan Sekat Lama,290000000,16.0,0.07,130,1,0.89
+G2,new_build,Pembangunan Sekat Baru,530000000,28.0,0.13,205,1,0.92
+G2,no_intervention,Tanpa Intervensi,0,0.0,0.00,0,1,1.00
+H1,repair,Perbaikan Sekat Lama,360000000,25.0,0.11,85,1,0.83
+H1,new_build,Pembangunan Sekat Baru,610000000,40.0,0.18,125,1,0.89
+H1,no_intervention,Tanpa Intervensi,0,0.0,0.00,0,1,1.00
+H2,repair,Perbaikan Sekat Lama,330000000,27.0,0.12,95,1,0.85
+H2,new_build,Pembangunan Sekat Baru,590000000,44.0,0.18,140,1,0.89
+H2,no_intervention,Tanpa Intervensi,0,0.0,0.00,0,1,1.00
+I1,repair,Perbaikan Sekat Lama,390000000,31.0,0.13,115,1,0.82
+I1,new_build,Pembangunan Sekat Baru,640000000,50.0,0.20,175,1,0.90
+I1,no_intervention,Tanpa Intervensi,0,0.0,0.00,0,1,1.00
+I2,repair,Perbaikan Sekat Lama,210000000,9.0,0.03,170,1,0.94
+I2,new_build,Pembangunan Sekat Baru,490000000,16.0,0.07,280,1,0.91
+I2,no_intervention,Tanpa Intervensi,0,0.0,0.00,0,1,1.00
+J1,repair,Perbaikan Sekat Lama,300000000,0.0,0.00,0,0,0.00
+J1,new_build,Pembangunan Sekat Baru,530000000,34.0,0.14,100,1,0.87
+J1,no_intervention,Tanpa Intervensi,0,0.0,0.00,0,1,1.00
+J2,repair,Perbaikan Sekat Lama,310000000,24.0,0.10,75,1,0.86
+J2,new_build,Pembangunan Sekat Baru,560000000,39.0,0.16,110,1,0.89
+J2,no_intervention,Tanpa Intervensi,0,0.0,0.00,0,1,1.00
+K1,repair,Perbaikan Sekat Lama,430000000,34.0,0.14,145,1,0.81
+K1,new_build,Pembangunan Sekat Baru,710000000,56.0,0.23,215,1,0.91
+K1,no_intervention,Tanpa Intervensi,0,0.0,0.00,0,1,1.00
+K2,repair,Perbaikan Sekat Lama,340000000,26.0,0.11,85,1,0.85
+K2,new_build,Pembangunan Sekat Baru,590000000,43.0,0.18,130,1,0.89
+K2,no_intervention,Tanpa Intervensi,0,0.0,0.00,0,1,1.00
+L1,repair,Perbaikan Sekat Lama,270000000,19.0,0.08,70,1,0.86
+L1,new_build,Pembangunan Sekat Baru,510000000,31.0,0.13,108,1,0.90
+L1,no_intervention,Tanpa Intervensi,0,0.0,0.00,0,1,1.00
+L2,repair,Perbaikan Sekat Lama,300000000,18.0,0.08,125,1,0.87
+L2,new_build,Pembangunan Sekat Baru,540000000,29.0,0.13,190,1,0.91
+L2,no_intervention,Tanpa Intervensi,0,0.0,0.00,0,1,1.00

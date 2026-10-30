@@ -1,0 +1,6 @@
+{
+  "name": "PEATRA — Adaptive Multi-Objective Peatland Restoration Optimizer",
+  "description": "Sistem pendukung keputusan berbasis optimasi matematis multi-objektif (MILP) untuk restorasi lahan gambut di KHG Sungai Kampar - Gaung, Kabupaten Pelalawan, Riau.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
